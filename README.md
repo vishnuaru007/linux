@@ -1,5 +1,5 @@
-# linux
+## linux
 Linux commands to refer
-##commands
+#commands
 ls : displays list of files.
 mkdir : creates a directory.
