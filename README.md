@@ -1,4 +1,12 @@
 ## linux
+**git**
+git init ( in particular folder)
+git pull https://github.com/vishnuaru007/linux
+git remote add linux(remotename) https://github.com/vishnuaru007/linux
+git add .
+git commit -m <commit msg>
+git push linux(remotename)
+
 Linux commands to refer
 #commands
 ls : displays list of files.
